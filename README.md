@@ -1,2 +1,2 @@
-# capstone1
-capstone project - part 1
+# capstone project
+capstone project - IBM Applied Data Science
